@@ -1,9 +1,9 @@
-import Board from './pages/Board'
+import { Home } from "./pages/Home";
 
 export function App() {
   return (
     <>
-      <Board />
+      <Home />
     </>
   )
 }
